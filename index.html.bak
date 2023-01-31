@@ -84,8 +84,8 @@ body {
 .image{
     max-width: 45%; 
     max-height: 45%;
-    width: auto; 
-    height: auto;
+    width: 120px; 
+    height: 120px;
     padding-bottom: 60px;
 }
 
@@ -136,7 +136,7 @@ body {
 </div>
 
 <div class="image-container">
-    <img class="image" src="6E07791F-BEBF-4A3A-A14D-863091378807.jpeg" alt="your-image-description">
+    <img class="image" src="welcomeImage.JPEG" alt="welcome Image">
 </div>
 <center><a href="path/to/file.jar" download class="download-button">Download Game</a><center>
 </body>
